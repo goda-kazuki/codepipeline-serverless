@@ -17,3 +17,7 @@
   - 裏ではCloudFormationが動いてるっぽい
 - `aws cloudformation delete-stack --stack-name sam-app --region region`
   - クリーンアップ
+
+## CodePipeline
+- パイプラインの作成
+- ソースステージをGitHubにして接続
