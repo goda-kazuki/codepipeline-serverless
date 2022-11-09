@@ -4,6 +4,7 @@ Description: >
   codepipeline-serverless
 
   Sample SAM Template for codepipeline-serverless
+  test
 
 # More info about Globals: https://github.com/awslabs/serverless-application-model/blob/master/docs/globals.rst
 Globals:
